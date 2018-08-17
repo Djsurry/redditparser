@@ -1,8 +1,8 @@
 import praw
 
-client_secret = 'Qg3kinZy4OOkFlvgVP6ne4rd9k8'
-client_id = 'wexc5X3QFtDD-w'
-user_agent = 'android:wexc5X3QFtDD-w:v1.2.3 (by /u/deejpake)'
+client_secret = ''
+client_id = ''
+user_agent = ''
 
 reddit = praw.Reddit(client_id=client_id,
                      client_secret=client_secret,
